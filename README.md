@@ -1,4 +1,4 @@
-# ArcoLinuxIso Carli-9
+# Arch Linux Calamares Installer or ALCI
 
 To be able to build you install this package
 
